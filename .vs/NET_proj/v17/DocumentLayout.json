@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\NET_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\net_proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\net_proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Observer\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Observer\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Observer\\NotificationService.cs",
+              "RelativeToolTip": "NET_proj\\Observer\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:31:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\ProductDecorator.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Decorator\\ProductDecorator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\ProductDecorator.cs",
+              "RelativeToolTip": "NET_proj\\Decorator\\ProductDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:29:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Factory\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Factory\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Factory\\ProductFactory.cs",
+              "RelativeToolTip": "NET_proj\\Factory\\ProductFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:26:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NET_proj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\NET_proj.csproj",
+              "RelativeDocumentMoniker": "NET_proj\\NET_proj.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\NET_proj.csproj",
+              "RelativeToolTip": "NET_proj\\NET_proj.csproj",
+              "ViewState": "AgIAAAAAAACQDfjZgJ8owAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T12:22:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:16:49.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
+              "RelativeToolTip": "NET_proj\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:13:50.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
