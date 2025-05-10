@@ -5,5 +5,6 @@ namespace NET_proj.Factory
     class FoodFactory : ProductFactory
     {
         public override Product CreateProduct(string name, decimal price) => new Food { Name = name, Price = price };
+        public override Product CreateProduct(string fullInfo) => new Food(fullInfo);
     }
 }

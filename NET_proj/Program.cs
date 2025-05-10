@@ -5,6 +5,7 @@ using NET_proj.Data;
 using NET_proj.Factory;
 using NET_proj.Decorator;
 using NET_proj.Observer;
+using NET_proj.File_Loaders;
 
 class Program
 {
@@ -14,6 +15,8 @@ class Program
 
     static void Main()
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        Console.InputEncoding = System.Text.Encoding.UTF8;
         notificationService.Register(customer);
 
         bool exit = false;
@@ -35,41 +38,35 @@ class Program
 
     static void AddProductMenu()
     {
-        Console.WriteLine("\n-- Категорії --\n1. Електроніка\n2. Одяг\n3. Їжа");
+        Console.WriteLine("\n-- Категорії --\n1. Одяг\n2. Електроніка\n3. Їжа");
         Console.Write("Оберіть категорію: ");
-        string choice = Console.ReadLine();
-
-        ProductFactory factory = choice switch
-        {
-            "1" => new ElectronicsFactory(),
-            "2" => new ClothingFactory(),
-            "3" => new FoodFactory(),
-            _ => null
-        };
-
-        if (factory == null)
-        {
-            Console.WriteLine("Невірна категорія\n");
-            return;
+        string? choice = Console.ReadLine();
+        ProductFactory factory;
+        switch(choice)
+        { 
+            case "1":
+                factory = new ClothingFactory();
+                break;
+            default:
+                throw new Exception();
+                break;
         }
-
-        Console.Write("Назва товару: ");
-        string name = Console.ReadLine();
-        Console.Write("Ціна: ");
-        if (!decimal.TryParse(Console.ReadLine(), out decimal price))
+        List<Product> products =  LoadProducts(factory);
+        foreach(var p in products)
         {
-            Console.WriteLine("Невірна ціна\n");
-            return;
+            Console.WriteLine(p.GetDetails());
         }
+        Console.WriteLine("Виберіть товар для придбання:");
+        int value = int.Parse(Console.ReadLine()!);
+        cart.AddProduct(products[value]);
+        Console.WriteLine("Товар успішно додано!");
+        return;
+    }
 
-        Product product = factory.CreateProduct(name, price);
-
-        Console.Write("Додати подарункову упаковку? (y/n): ");
-        if (Console.ReadLine()?.ToLower() == "y")
-            product = new GiftWrapDecorator(product);
-
-        cart.AddProduct(product);
-        Console.WriteLine("Товар додано!\n");
+    static List<Product> LoadProducts(ProductFactory factory)
+    {
+        FileLoader loader = GetLoader.GetFileLoaderTxt(factory);
+        return loader.LoadProducts();
     }
 
     static void SaveOrder()

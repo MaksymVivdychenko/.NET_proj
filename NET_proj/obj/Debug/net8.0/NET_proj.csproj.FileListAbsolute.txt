@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.exe
+C:\Users\user\source\repos\NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.deps.json
+C:\Users\user\source\repos\NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.runtimeconfig.json
+C:\Users\user\source\repos\NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.dll
+C:\Users\user\source\repos\NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.pdb
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfo.cs
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.sourcelink.json
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.dll
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\refint\NET_proj.dll
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.pdb
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.genruntimeconfig.cache
+C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\ref\NET_proj.dll

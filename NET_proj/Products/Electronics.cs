@@ -2,6 +2,10 @@
 {
     class Electronics : Product
     {
+        public Electronics() { }
+        public Electronics(string stringInfo) : base(stringInfo)
+        {
+        }
         public override string GetDetails() => $"Electronics: {Name}, Price: {Price} грн";
     }
 
