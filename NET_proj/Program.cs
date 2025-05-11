@@ -123,20 +123,20 @@ class Program
     static void NotifyCustomer()
     {
         var r = new Random();
-        var prob = 70;
-        var curr = r.Next(0, 100) + 1;
+        var probability = 70;
+        var current = r.Next(0, 100) + 1;
 
-        var ids = cart.GetCartProducts().ToList();
+        var cart_products = cart.GetCartProducts().ToList();
 
-        if (!ids.Any()) 
+        if (cart_products.Count == 0) 
         {
             notificationService.Notify($"У кошишку нема товарів!\n");
         }
         else 
         {
-            var discount_product = ids[r.Next(0, ids.Count())];
+            var discount_product = cart_products[r.Next(0, cart_products.Count())];
 
-            var msg = curr < prob ? $"Є нова знижка на товар {discount_product.Name}! Ціна: {discount_product.Price * 0.8m:F2}" : "Нових знижок нема.";
+            var msg = current < probability ? $"Є нова знижка на товар {discount_product.Name}! Ціна: {discount_product.Price * 0.8m:F2}" : "Нових знижок нема.";
             notificationService.Notify($"{msg}\n");
         }     
     }
