@@ -4,37 +4,57 @@ using NET_proj.Decorator;
 using NET_proj.Observer;
 using NET_proj.File_Loaders;
 using System.Globalization;
-
 class Program
 {
     static readonly Cart cart = new();
     static readonly NotificationService notificationService = new();
-    static readonly Customer customer = new("Клієнт");
 
-    static void Main()
-    {
+    static void Main() {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.InputEncoding = System.Text.Encoding.UTF8;
         CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
-        notificationService.Subscribe(customer);
 
-        bool exit = false;
+        var exit = false;
+        var is_registered = false;
+
+        var init_msg = " - 1. Створити користувача\n" +
+                       " - 0. Вийти";
+        var auth_msg = " - 1. Додати товар\n" +
+                       " - 2. Переглянути кошик\n" +
+                       " - 3. Зберегти замовлення\n" +
+                       " - 4. Отримати новини\n" +
+                       " - 0. Вийти";
         while (!exit)
         {
-            Console.WriteLine("1. Додати товар\n2. Переглянути кошик\n3. Зберегти замовлення\n4. Отримати новини\n0. Вихід");
-            Console.Write("Оберіть дію: ");
-            switch (Console.ReadLine())
+            Console.WriteLine("Перелік дій:");
+            if (!is_registered) 
             {
-                case "1": AddProductMenu(); break;
-                case "2": cart.DisplayCart(); break;
-                case "3": SaveOrder(); break;
-                case "4": NotifyCustomer(); break;
-
-                case "5": notificationService.Subscribe(CreateCustomer()); break;
-
-
-                case "0": exit = true; break;
-                default: Console.WriteLine("Невідома опція\n"); break;
+                Console.WriteLine($"{init_msg}\n");
+                Console.Write("Оберіть дію: ");
+                var option = Console.ReadLine();
+                Console.Clear();
+                switch (option) 
+                {
+                    case "1": notificationService.Subscribe(CreateCustomer()); is_registered = true; break;
+                    case "0": exit = true; break;
+                    default: Console.WriteLine("Невідома опція\n"); break;
+                }
+            }
+            else 
+            {
+                Console.WriteLine($"{auth_msg}\n");
+                Console.Write("Оберіть дію: ");
+                var option = Console.ReadLine();
+                Console.Clear();
+                switch (option)
+                {
+                    case "1": AddProductMenu(); break;
+                    case "2": cart.DisplayCart(); break;
+                    case "3": SaveOrder(); break;
+                    case "4": NotifyCustomer(); break;
+                    case "0": exit = true; break;
+                    default: Console.WriteLine("Невідома опція\n"); break;
+                }
             }
         }
     }
@@ -106,10 +126,9 @@ class Program
         var r = new Random();
         var prob = 70;
         var curr = r.Next(0, 100) + 1;
-        if (curr < prob) 
-        {
-            notificationService.Notify("Дякуємо за замовлення! Нові знижки до -30%!\n");
-        }
+
+        var msg = curr < prob ? "Є нові знижки до -30%!" : "Нових знижок нема.";
+        notificationService.Notify($"{msg}\n");
     }
 }
 

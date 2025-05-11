@@ -28,3 +28,18 @@ D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\refint\NET_proj.dl
 D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.pdb
 D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.genruntimeconfig.cache
 D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\ref\NET_proj.dll
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.exe
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.deps.json
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.runtimeconfig.json
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.dll
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\bin\Debug\net8.0\NET_proj.pdb
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfoInputs.cache
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfo.cs
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.csproj.CoreCompileInputs.cache
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.sourcelink.json
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.dll
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\refint\NET_proj.dll
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.pdb
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.genruntimeconfig.cache
+F:\Programmes\Github\Reps\.NET_proj\NET_proj\obj\Debug\net8.0\ref\NET_proj.dll

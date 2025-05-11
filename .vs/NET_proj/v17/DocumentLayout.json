@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\",
+  "WorkspaceRootPath": "F:\\Programmes\\Github\\Reps\\.NET_proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647E09D3-F696-4781-80C0-51E08D6EA3A6}|Solution Items{647E09D3-F696-4781-80C0-51E08D6EA3A6}|D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{647E09D3-F696-4781-80C0-51E08D6EA3A6}|Solution Items{647E09D3-F696-4781-80C0-51E08D6EA3A6}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\file_loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\file_loaders\\clothingloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\clothingloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +26,67 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Clothing.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Clothing.cs",
-              "RelativeDocumentMoniker": "NET_proj\\Products\\Clothing.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Clothing.cs",
-              "RelativeToolTip": "NET_proj\\Products\\Clothing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:36:22.424Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Product.cs",
-              "RelativeToolTip": "NET_proj\\Products\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:33:32.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GiftWrapDecorator.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "RelativeDocumentMoniker": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "RelativeToolTip": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:06:07.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetLoader.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\GetLoader.cs",
-              "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\GetLoader.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\GetLoader.cs",
-              "RelativeToolTip": "NET_proj\\File_Loaders\\GetLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:45:46.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-11T07:32:18.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClothingLoader.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\ClothingLoader.cs",
-              "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\ClothingLoader.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\ClothingLoader.cs",
-              "RelativeToolTip": "NET_proj\\File_Loaders\\ClothingLoader.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:23:42.109Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Program.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Program.cs*",
-              "RelativeToolTip": "NET_proj\\Program.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwD8AAAAJAAAAAAAAAA==",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
+              "RelativeToolTip": "NET_proj\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwIIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:23:08.405Z",
+              "WhenOpened": "2025-05-11T14:48:01.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileLoader.cs",
-              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\FileLoader.cs",
-              "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\FileLoader.cs",
-              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\FileLoader.cs",
-              "RelativeToolTip": "NET_proj\\File_Loaders\\FileLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Observer\\NotificationService.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\NotificationService.cs",
+              "RelativeToolTip": "NET_proj\\Observer\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:22:27.112Z"
+              "WhenOpened": "2025-05-11T14:49:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Observer\\ISubject.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\ISubject.cs",
+              "RelativeToolTip": "NET_proj\\Observer\\ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:49:52.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Observer\\IObserver.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\IObserver.cs",
+              "RelativeToolTip": "NET_proj\\Observer\\IObserver.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:49:46.078Z",
+              "EditorCaption": ""
             }
           ]
         }
