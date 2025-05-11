@@ -136,7 +136,7 @@ class Program
         {
             var discount_product = ids[r.Next(0, ids.Count())];
 
-            var msg = curr < prob ? $"Є нова знижка на товар {discount_product.Name}! Ціна: {discount_product.Price * 0.8m:F3}" : "Нових знижок нема.";
+            var msg = curr < prob ? $"Є нова знижка на товар {discount_product.Name}! Ціна: {discount_product.Price * 0.8m:F2}" : "Нових знижок нема.";
             notificationService.Notify($"{msg}\n");
         }     
     }
