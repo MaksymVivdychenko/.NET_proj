@@ -40,9 +40,9 @@ class Program
     {
         Console.WriteLine("\n-- Категорії --\n1. Одяг\n2. Електроніка\n3. Їжа");
         Console.Write("Оберіть категорію: ");
-        string? choice = Console.ReadLine();
+        string? CategoryChoice = Console.ReadLine();
         ProductFactory factory;
-        switch(choice)
+        switch(CategoryChoice)
         { 
             case "1":
                 factory = new ClothingFactory();
@@ -63,6 +63,12 @@ class Program
         }
         Console.WriteLine("Виберіть товар для придбання:");
         int value = int.Parse(Console.ReadLine()!);
+        Console.WriteLine("Чи бажаєте додати подарункову обгортку(+3 грн)?(так/ні)");
+        string wrappingOption = Console.ReadLine()!;
+        if (wrappingOption == "так")
+        {
+            products[value] = new GiftWrapDecorator(products[value]);
+        }
         cart.AddProduct(products[value]);
         Console.WriteLine("Товар успішно додано!");
         return;
