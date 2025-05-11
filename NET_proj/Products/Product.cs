@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,7 @@ namespace NET_proj.Data
         {
             string[] stringInfoSplitted = stringInfo.Split(';');
             Name = stringInfoSplitted[0];
-            Price = decimal.Parse(stringInfoSplitted[1]);
+            Price = decimal.Parse(stringInfoSplitted[1], CultureInfo.InvariantCulture);
         }
         public abstract string GetDetails();
     }

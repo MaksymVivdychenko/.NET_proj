@@ -13,3 +13,18 @@ C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\refint\NET_proj.dl
 C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.pdb
 C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\NET_proj.genruntimeconfig.cache
 C:\Users\user\source\repos\NET_proj\NET_proj\obj\Debug\net8.0\ref\NET_proj.dll
+D:\yuliia\.NET 4сем\Проект\NET_proj\bin\Debug\net8.0\NET_proj.exe
+D:\yuliia\.NET 4сем\Проект\NET_proj\bin\Debug\net8.0\NET_proj.deps.json
+D:\yuliia\.NET 4сем\Проект\NET_proj\bin\Debug\net8.0\NET_proj.runtimeconfig.json
+D:\yuliia\.NET 4сем\Проект\NET_proj\bin\Debug\net8.0\NET_proj.dll
+D:\yuliia\.NET 4сем\Проект\NET_proj\bin\Debug\net8.0\NET_proj.pdb
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfoInputs.cache
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.AssemblyInfo.cs
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.csproj.CoreCompileInputs.cache
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.sourcelink.json
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.dll
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\refint\NET_proj.dll
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.pdb
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\NET_proj.genruntimeconfig.cache
+D:\yuliia\.NET 4сем\Проект\NET_proj\obj\Debug\net8.0\ref\NET_proj.dll
