@@ -12,6 +12,8 @@ namespace NET_proj.File_Loaders
         public static FileLoader GetFileLoaderTxt(ProductFactory factory) => factory switch
         {
             ClothingFactory cf => new ClothingLoader(cf),
+            ElectronicsFactory ef => new ElectronicsLoader(ef),
+            FoodFactory ff => new FoodLoader(ff),
             _ => throw new ArgumentException("Невідома фабрика")
         };
 

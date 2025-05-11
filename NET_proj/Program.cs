@@ -48,10 +48,13 @@ class Program
                 factory = new ClothingFactory();
                 break;
             case "2":
-
+                factory = new ElectronicsFactory();
+                break;
+            case "3":
+                factory = new FoodFactory();
+                break;
             default:
                 throw new Exception();
-                break;
         }
         List<Product> products =  LoadProducts(factory);
         foreach(var p in products)
