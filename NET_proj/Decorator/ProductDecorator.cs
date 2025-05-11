@@ -11,6 +11,8 @@ namespace NET_proj.Decorator
     abstract class ProductDecorator : Product
     {
         protected Product _product;
+        public override string? Name { get => _product.Name; set => _product.Name = value; }
+        public override decimal? Price { get => _product.Price; set => _product.Price = value; }
         public ProductDecorator(Product product) { _product = product; }
     }
 }

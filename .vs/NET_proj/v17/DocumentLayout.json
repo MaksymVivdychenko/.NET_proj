@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Programmes\\Github\\Reps\\.NET_proj\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\NET_proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,25 +26,47 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\ProductDecorator.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Decorator\\ProductDecorator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\ProductDecorator.cs",
+              "RelativeToolTip": "NET_proj\\Decorator\\ProductDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:43:43.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:43:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GiftWrapDecorator.cs",
-              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
               "RelativeDocumentMoniker": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
               "RelativeToolTip": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:21:21.071Z",
               "EditorCaption": ""
@@ -45,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
-              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
               "RelativeToolTip": "NET_proj\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T14:48:01.633Z",
               "EditorCaption": ""
