@@ -17,22 +17,4 @@ namespace NET_proj.File_Loaders
         }
         public abstract List<Product> LoadProducts();
     }
-
-    internal class ClothingLoader : FileLoader
-    {
-        public ClothingLoader(ProductFactory factory) : base(factory) {}
-        public override List<Product> LoadProducts()
-        {
-            List<Product> products = new();
-            using(StreamReader reader = new("Clothing.txt"))
-            {
-                while(reader.EndOfStream == false)
-                {
-                    string productString = reader.ReadLine()!;
-                    products.Add(Factory.CreateProduct(productString));
-                }
-            }
-            return products;
-        }
-    }
 }

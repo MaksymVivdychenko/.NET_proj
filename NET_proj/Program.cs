@@ -47,6 +47,8 @@ class Program
             case "1":
                 factory = new ClothingFactory();
                 break;
+            case "2":
+
             default:
                 throw new Exception();
                 break;
