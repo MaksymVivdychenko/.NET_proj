@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|f:\\programmes\\github\\reps\\.net_proj\\net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +50,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Cart.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Cart.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Cart.cs",
+              "RelativeToolTip": "NET_proj\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:46:52.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Products\\Product.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:46:38.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Factory\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Factory\\ProductFactory.cs",
+              "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Factory\\ProductFactory.cs",
+              "RelativeToolTip": "NET_proj\\Factory\\ProductFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:41:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
               "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Program.cs",
               "RelativeToolTip": "NET_proj\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAYwIIAAAAsAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwIsAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T14:48:01.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\NotificationService.cs",
               "RelativeDocumentMoniker": "NET_proj\\Observer\\NotificationService.cs",
               "ToolTip": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\NotificationService.cs",
               "RelativeToolTip": "NET_proj\\Observer\\NotificationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T14:49:57.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ISubject.cs",
               "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\ISubject.cs",
               "RelativeDocumentMoniker": "NET_proj\\Observer\\ISubject.cs",
@@ -77,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IObserver.cs",
               "DocumentMoniker": "F:\\Programmes\\Github\\Reps\\.NET_proj\\NET_proj\\Observer\\IObserver.cs",
               "RelativeDocumentMoniker": "NET_proj\\Observer\\IObserver.cs",

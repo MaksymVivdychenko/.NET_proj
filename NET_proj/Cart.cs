@@ -2,8 +2,9 @@
 
 class Cart
 {
-    private List<Product> _items = new();
+    private readonly List<Product> _items = [];
     public void AddProduct(Product product) => _items.Add(product);
+    public IEnumerable<Product> GetCartProducts() => _items;
     public void DisplayCart()
     {
         Console.WriteLine("\n-- Ваш кошик --");
