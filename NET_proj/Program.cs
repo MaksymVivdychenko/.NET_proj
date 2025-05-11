@@ -54,12 +54,13 @@ class Program
                 factory = new FoodFactory();
                 break;
             default:
-                throw new Exception();
+                throw new Exception("Невідома категорія");
         }
         List<Product> products =  LoadProducts(factory);
-        foreach(var p in products)
+        for (int i = 0; i < products.Count; i++)
         {
-            Console.WriteLine(p.GetDetails());
+            Console.Write($" {i}. ");
+            Console.WriteLine(products[i].GetDetails());
         }
         Console.WriteLine("Виберіть товар для придбання:");
         int value = int.Parse(Console.ReadLine()!);

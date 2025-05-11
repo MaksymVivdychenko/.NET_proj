@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|d:\\yuliia\\.net 4\u0441\u0435\u043C\\\u043F\u0440\u043E\u0435\u043A\u0442\\net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Clothing.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Clothing.cs",
+              "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Clothing.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:36:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Products\\Product.cs",
               "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GiftWrapDecorator.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
               "RelativeDocumentMoniker": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetLoader.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\GetLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\GetLoader.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClothingLoader.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\ClothingLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\ClothingLoader.cs",
@@ -104,20 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Program.cs",
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
               "ToolTip": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\Program.cs",
               "RelativeToolTip": "NET_proj\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T07:23:08.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FileLoader.cs",
               "DocumentMoniker": "D:\\yuliia\\.NET 4\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\NET_proj\\File_Loaders\\FileLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\FileLoader.cs",
