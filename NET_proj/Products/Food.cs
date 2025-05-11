@@ -6,7 +6,7 @@
         public Food(string stringInfo) : base(stringInfo)
         {
         }
-        public override string GetDetails() => $"Food: {Name}, Price: {Price} грн";
+        public override string GetDetails() => $"Food: {Name}, Price: {Price:F2} грн";
     }
 
 }

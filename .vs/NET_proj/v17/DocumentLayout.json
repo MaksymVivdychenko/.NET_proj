@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\decorator\\productdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +46,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Clothing.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Clothing.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Clothing.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:42:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Electronics.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Electronics.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Electronics.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:42:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Food.cs",
+              "RelativeDocumentMoniker": "NET_proj\\Products\\Food.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Food.cs",
+              "RelativeToolTip": "NET_proj\\Products\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:42:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductDecorator.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\ProductDecorator.cs",
               "RelativeDocumentMoniker": "NET_proj\\Decorator\\ProductDecorator.cs",
@@ -47,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
               "RelativeDocumentMoniker": "NET_proj\\Products\\Product.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Products\\Product.cs",
               "RelativeToolTip": "NET_proj\\Products\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:43:23.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GiftWrapDecorator.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Decorator\\GiftWrapDecorator.cs",
               "RelativeDocumentMoniker": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
@@ -68,8 +119,7 @@
               "RelativeToolTip": "NET_proj\\Decorator\\GiftWrapDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:21:21.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:21:21.071Z"
             },
             {
               "$type": "Document",
@@ -79,7 +129,7 @@
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
               "RelativeToolTip": "NET_proj\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T14:48:01.633Z",
               "EditorCaption": ""

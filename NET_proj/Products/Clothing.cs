@@ -7,7 +7,7 @@
         {
         }
 
-        public override string GetDetails() => $"Clothing: {Name}, Price: {Price} грн";
+        public override string GetDetails() => $"Clothing: {Name}, Price: {Price:F2} грн";
     }
 
 }

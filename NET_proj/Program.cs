@@ -11,6 +11,7 @@ class Program
 
     static void Main() {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
+        Console.InputEncoding = System.Text.Encoding.UTF8;
         CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
 
         var exit = false;
@@ -21,8 +22,8 @@ class Program
         var auth_msg = " - 1. Додати товар\n" +
                        " - 2. Переглянути кошик\n" +
                        " - 3. Зберегти замовлення\n" +
-                       " - 4. Отримати новини\n" +
                        " - 0. Вийти";
+        bool isDiscount = GetDiscount();
         while (!exit)
         {
             Console.WriteLine("Перелік дій:");
@@ -38,6 +39,10 @@ class Program
                     case "0": exit = true; break;
                     default: Console.WriteLine("Невідома опція\n"); break;
                 }
+                if (isDiscount && is_registered)
+                {
+                    notificationService.Notify("Розпродаж в магазині, всі товари зі знижкою 20%");
+                }
             }
             else 
             {
@@ -50,7 +55,6 @@ class Program
                     case "1": AddProductMenu(); break;
                     case "2": cart.DisplayCart(); break;
                     case "3": SaveOrder(); break;
-                    case "4": NotifyCustomer(); break;
                     case "0": exit = true; break;
                     default: Console.WriteLine("Невідома опція\n"); break;
                 }
@@ -92,6 +96,7 @@ class Program
         List<Product> products =  LoadProducts(factory);
         for (int i = 0; i < products.Count; i++)
         {
+            products[i].Price *= 0.8m;
             Console.Write($" {i}. ");
             Console.WriteLine(products[i].GetDetails());
         }
@@ -120,25 +125,17 @@ class Program
         Console.WriteLine("Замовлення збережено у 'order.txt'\n");
     }
 
-    static void NotifyCustomer()
+    static bool GetDiscount()
     {
         var r = new Random();
-        var probability = 70;
-        var current = r.Next(0, 100) + 1;
-
-        var cart_products = cart.GetCartProducts().ToList();
-
-        if (cart_products.Count == 0) 
+        if(r.Next(1,5) > 2)
         {
-            notificationService.Notify($"У кошишку нема товарів!\n");
+            return true;
         }
-        else 
+        else
         {
-            var discount_product = cart_products[r.Next(0, cart_products.Count())];
-
-            var msg = current < probability ? $"Є нова знижка на товар {discount_product.Name}! Ціна: {discount_product.Price * 0.8m:F2}" : "Нових знижок нема.";
-            notificationService.Notify($"{msg}\n");
-        }     
+            return false;
+        }
     }
 }
 

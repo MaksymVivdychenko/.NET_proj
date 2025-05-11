@@ -6,7 +6,7 @@
         public Electronics(string stringInfo) : base(stringInfo)
         {
         }
-        public override string GetDetails() => $"Electronics: {Name}, Price: {Price} грн";
+        public override string GetDetails() => $"Electronics: {Name}, Price: {Price:F2} грн";
     }
 
 }
