@@ -1,23 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using NET_proj.Data;
+﻿using NET_proj.Data;
 using NET_proj.Factory;
 using NET_proj.Decorator;
 using NET_proj.Observer;
 using NET_proj.File_Loaders;
+using System.Globalization;
 
 class Program
 {
-    static Cart cart = new();
-    static NotificationService notificationService = new();
-    static Customer customer = new() { Name = "Клієнт" };
+    static readonly Cart cart = new();
+    static readonly NotificationService notificationService = new();
+    static readonly Customer customer = new("Клієнт");
 
     static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.InputEncoding = System.Text.Encoding.UTF8;
-        notificationService.Register(customer);
+        CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
+        notificationService.Subscribe(customer);
 
         bool exit = false;
         while (!exit)
@@ -30,10 +29,25 @@ class Program
                 case "2": cart.DisplayCart(); break;
                 case "3": SaveOrder(); break;
                 case "4": NotifyCustomer(); break;
+
+                case "5": notificationService.Subscribe(CreateCustomer()); break;
+
+
                 case "0": exit = true; break;
                 default: Console.WriteLine("Невідома опція\n"); break;
             }
         }
+    }
+    static Customer CreateCustomer() 
+    {
+        string? name = null;
+        while (name is null)
+        {
+            Console.WriteLine("Введіть ім'я користувача:");
+            name = Console.ReadLine();
+            Console.Clear();
+        }
+        return new Customer(name);
     }
 
     static void AddProductMenu()
@@ -89,7 +103,13 @@ class Program
 
     static void NotifyCustomer()
     {
-        notificationService.Notify("Дякуємо за замовлення! Нові знижки до -30%!\n");
+        var r = new Random();
+        var prob = 70;
+        var curr = r.Next(0, 100) + 1;
+        if (curr < prob) 
+        {
+            notificationService.Notify("Дякуємо за замовлення! Нові знижки до -30%!\n");
+        }
     }
 }
 
