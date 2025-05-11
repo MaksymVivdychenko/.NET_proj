@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\NET_proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647E09D3-F696-4781-80C0-51E08D6EA3A6}|Solution Items{647E09D3-F696-4781-80C0-51E08D6EA3A6}|C:\\Users\\user\\source\\repos\\NET_proj\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{647E09D3-F696-4781-80C0-51E08D6EA3A6}|Solution Items{647E09D3-F696-4781-80C0-51E08D6EA3A6}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\file_loaders\\clothingloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\clothingloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|c:\\users\\user\\source\\repos\\net_proj\\net_proj\\file_loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E948C0-1DB2-4C58-A749-F45547F5A61C}|NET_proj\\NET_proj.csproj|solutionrelative:net_proj\\file_loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\File_Loaders\\ClothingLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NET_proj\\File_Loaders\\ClothingLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 55,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetLoader.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\File_Loaders\\GetLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\GetLoader.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-11T07:32:18.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T07:32:18.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClothingLoader.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\File_Loaders\\ClothingLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\ClothingLoader.cs",
@@ -68,25 +67,24 @@
               "RelativeToolTip": "NET_proj\\File_Loaders\\ClothingLoader.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:23:42.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T07:23:42.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
               "RelativeDocumentMoniker": "NET_proj\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\Program.cs",
               "RelativeToolTip": "NET_proj\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwD4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T07:23:08.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FileLoader.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NET_proj\\NET_proj\\File_Loaders\\FileLoader.cs",
               "RelativeDocumentMoniker": "NET_proj\\File_Loaders\\FileLoader.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "NET_proj\\File_Loaders\\FileLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:22:27.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T07:22:27.112Z"
             }
           ]
         }
